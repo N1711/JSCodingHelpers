@@ -68,7 +68,7 @@ class LinkedList {
         console.log(result + 'null');
     }
 }
-
+/*
 let l = new LinkedList();
 let i= 0;
 for(;i< 10;i++) {
@@ -76,3 +76,4 @@ for(;i< 10;i++) {
 }
 
 l.print();
+*/
